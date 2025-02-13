@@ -1,0 +1,8 @@
+git init   (initialize git)
+git pull   (get changes from git)
+git status (to get status of the repository)
+
+
+git add .  (add all changes to git)
+git commit -m "message" (commit changes to git)
+git push (push changes to git)
