@@ -2,7 +2,12 @@ git init   (initialize git)
 git pull   (get changes from git)
 git status (to get status of the repository)
 
-
+# to push a commit
 git add .  (add all changes to git)
 git commit -m "message" (commit changes to git)
 git push (push changes to git)
+
+git branch (show all branches)
+git branch branch-name (create new branch)
+git checkout branch-name (switch to branch)
+git checkout -b branch-name (create and switch to new branch)
